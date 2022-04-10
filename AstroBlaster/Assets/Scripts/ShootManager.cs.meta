@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c51c69b7d8f16e846b8617ebc81e0f44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bullet: {instanceID: 0}
+  - PlayerShootPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
